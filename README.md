@@ -6,4 +6,5 @@
 
 - Strogonoff de frango
 - Pavê
-- Mouse
+- Mousse
+- Escondidinho
