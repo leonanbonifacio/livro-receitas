@@ -6,3 +6,4 @@
 
 - Strogonoff de frango
 - Pavê
+- Escondidinho
